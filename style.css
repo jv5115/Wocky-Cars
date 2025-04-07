@@ -1,0 +1,20 @@
+h1{
+    color: whitesmoke;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    background-color: red;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 20px;
+    border:solid 5px black;
+    box-shadow: 5px 5px 5px black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+body{
+    background-color: whitesmoke;
+  }
